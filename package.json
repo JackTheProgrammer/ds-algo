@@ -1,0 +1,15 @@
+{
+  "name": "datastructuresandalgorithm",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fawad Awan",
+  "license": "MIT",
+  "compilerOptions": {
+    "module": "datastructureandalgorithm",
+    "target": "es6"
+  }
+}
